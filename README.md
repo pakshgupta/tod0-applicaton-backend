@@ -146,3 +146,8 @@ npm start
 ### Category Management
 
 - **Create Category**: Adds new categories which can later be assigned to tasks.
+
+## Postman API Testing
+You can test the API using Postman by importing the collection. Click the button below to view and run the API requests:
+
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/27666930-26622090-0840-4824-8191-d61ec033b74c?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D27666930-26622090-0840-4824-8191-d61ec033b74c%26entityType%3Dcollection%26workspaceId%3D81582af6-ac8b-4937-9cd3-85442adfc6b4)
